@@ -4,7 +4,7 @@ Modeling the World (in Julia)
 A series of [IJulia notebooks](https://github.com/JuliaLang/IJulia.jl) containing mathematical 
 models of different objects (both from the real world and from abstract constructions). Check them out, live:
 
-* [Lorenz Attractor](http://nbviewer.ipython.org/urls/raw.github.com/pjpmarques/Julia-Modelling-the-World/master/Lorenz%2520Attractor.ipynb)
+* [Lorenz Attractor](http://nbviewer.ipython.org/github/pjpmarques/Julia-Modeling-the-World/blob/master/Lorenz%20Attractor.ipynb)
 
 
 Running locally
