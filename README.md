@@ -28,7 +28,6 @@ Make sure that you have the following packages installed:
 * [ODE](https://github.com/JuliaLang/ODE.jl)
 
 
-
 License
 =======
 
