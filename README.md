@@ -5,6 +5,7 @@ A series of [IJulia notebooks](https://github.com/JuliaLang/IJulia.jl) containin
 models of different objects (both from the real world and from abstract constructions). Check them out, live:
 
 * [Lorenz Attractor](http://nbviewer.ipython.org/github/pjpmarques/Julia-Modeling-the-World/blob/master/Lorenz%20Attractor.ipynb)
+* [Mandelbrot Set](http://nbviewer.ipython.org/github/pjpmarques/Julia-Modeling-the-World/blob/master/Mandelbrot.ipynb)
 * [Terminal Velocity](http://nbviewer.ipython.org/github/pjpmarques/Julia-Modeling-the-World/blob/master/Terminal%20Velocity.ipynb)
 
 
