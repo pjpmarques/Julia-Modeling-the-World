@@ -7,7 +7,7 @@ models of different objects (both from the real world and from abstract construc
 * [Lorenz Attractor](http://nbviewer.ipython.org/github/pjpmarques/Julia-Modeling-the-World/blob/master/Lorenz%20Attractor.ipynb)
 * [Mandelbrot Set](http://nbviewer.ipython.org/github/pjpmarques/Julia-Modeling-the-World/blob/master/Mandelbrot.ipynb)
 * [Terminal Velocity](http://nbviewer.ipython.org/github/pjpmarques/Julia-Modeling-the-World/blob/master/Terminal%20Velocity.ipynb)
-* [Arquimedes and Pi](http://nbviewer.ipython.org/github/pjpmarques/Julia-Modeling-the-World/blob/master/Arquimedes%20and%20Pi.ipynb)
+* [Archimedes and Pi](http://nbviewer.ipython.org/github/pjpmarques/Julia-Modeling-the-World/blob/master/Archimedes%20and%20Pi.ipynb)
 
 
 Running locally
