@@ -8,7 +8,7 @@ models of different objects (both from the real world and from abstract construc
 * [Mandelbrot Set](http://nbviewer.ipython.org/github/pjpmarques/Julia-Modeling-the-World/blob/master/Mandelbrot.ipynb)
 * [Terminal Velocity](http://nbviewer.ipython.org/github/pjpmarques/Julia-Modeling-the-World/blob/master/Terminal%20Velocity.ipynb)
 * [Archimedes and Pi](http://nbviewer.ipython.org/github/pjpmarques/Julia-Modeling-the-World/blob/master/Archimedes%20and%20Pi.ipynb)
-* [Tree-Body Problem](http://nbviewer.ipython.org/github/pjpmarques/Julia-Modeling-the-World/blob/master/Tree-Body%20Problem.ipynb)
+* [Three-Body Problem](http://nbviewer.ipython.org/github/pjpmarques/Julia-Modeling-the-World/blob/master/Three-Body%20Problem.ipynb)
 
 Running locally
 ===============
